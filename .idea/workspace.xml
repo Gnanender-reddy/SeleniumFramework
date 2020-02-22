@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y9RXjb8PwcJY9cufAbuLCa2cyW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="bas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="" />
+      <created>1582352864945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582352864945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1284" height="172" key="GridCell.Tab.0.bottom" timestamp="1582364869479">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="172" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582364869479" />
+    <state width="1284" height="172" key="GridCell.Tab.0.center" timestamp="1582364869479">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="172" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582364869479" />
+    <state width="1284" height="172" key="GridCell.Tab.0.left" timestamp="1582364869478">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="172" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582364869478" />
+    <state width="1284" height="172" key="GridCell.Tab.0.right" timestamp="1582364869479">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1284" height="172" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582364869479" />
+  </component>
+</project>
