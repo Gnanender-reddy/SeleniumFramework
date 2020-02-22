@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="" />
+    <list default="true" id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bas.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y9RXjb8PwcJY9cufAbuLCa2cyW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="bas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonseleniumframework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +43,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,7 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bas" />
+        <item itemvalue="Python.basic" />
       </list>
     </recent_temporary>
   </component>
@@ -66,21 +72,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1284" height="172" key="GridCell.Tab.0.bottom" timestamp="1582364869479">
+    <state width="1284" height="172" key="GridCell.Tab.0.bottom" timestamp="1582366044044">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582364869479" />
-    <state width="1284" height="172" key="GridCell.Tab.0.center" timestamp="1582364869479">
+    <state width="1284" height="172" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582366044044" />
+    <state width="1284" height="172" key="GridCell.Tab.0.center" timestamp="1582366044043">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582364869479" />
-    <state width="1284" height="172" key="GridCell.Tab.0.left" timestamp="1582364869478">
+    <state width="1284" height="172" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582366044043" />
+    <state width="1284" height="172" key="GridCell.Tab.0.left" timestamp="1582366044042">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582364869478" />
-    <state width="1284" height="172" key="GridCell.Tab.0.right" timestamp="1582364869479">
+    <state width="1284" height="172" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582366044042" />
+    <state width="1284" height="172" key="GridCell.Tab.0.right" timestamp="1582366044043">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582364869479" />
+    <state width="1284" height="172" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582366044043" />
   </component>
 </project>

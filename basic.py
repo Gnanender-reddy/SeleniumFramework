@@ -2,7 +2,7 @@
 @Author : P.Gnanender Reddy
 @Since : Feb'2020
 @keywords: selenium.
-@Description:This code is for python selenium basics which has mouse drag and drop actions concept.
+@Description:This code is for python selenium basics which has unit test frame work concept.
 """
 import unittest
 
