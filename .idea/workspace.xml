@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +32,33 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for testcases.AppTesting">
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for skippingtests.Apptesting">
+    <configuration name="Unittests for skippingtests.Apptesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pythonseleniumframework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;skippingtests.Apptesting&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for skippingtests.Apptesting.test_loginbytwiter" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;skippingtests.Apptesting.test_loginbytwiter&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests for testcases.AppTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -66,6 +73,20 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;testcases.AppTesting&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in skippingtests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/skippingtests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in testcases.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -84,9 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for testcases.AppTesting" />
+        <item itemvalue="Python tests.Unittests for skippingtests.Apptesting" />
+        <item itemvalue="Python tests.Unittests in skippingtests.py" />
         <item itemvalue="Python tests.Unittests in testcases.py" />
-        <item itemvalue="Python.basic" />
+        <item itemvalue="Python tests.Unittests for skippingtests.Apptesting.test_loginbytwiter" />
+        <item itemvalue="Python tests.Unittests for testcases.AppTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -104,22 +127,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1284" height="284" key="GridCell.Tab.0.bottom" timestamp="1582519938445">
+    <state width="1284" height="235" key="GridCell.Tab.0.bottom" timestamp="1582521296759">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="284" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582519938445" />
-    <state width="1284" height="284" key="GridCell.Tab.0.center" timestamp="1582519938445">
+    <state width="1284" height="235" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582521296759" />
+    <state width="1284" height="235" key="GridCell.Tab.0.center" timestamp="1582521296758">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="284" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582519938445" />
-    <state width="1284" height="284" key="GridCell.Tab.0.left" timestamp="1582519938444">
+    <state width="1284" height="235" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582521296758" />
+    <state width="1284" height="235" key="GridCell.Tab.0.left" timestamp="1582521296758">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="284" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582519938444" />
-    <state width="1284" height="284" key="GridCell.Tab.0.right" timestamp="1582519938445">
+    <state width="1284" height="235" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582521296758" />
+    <state width="1284" height="235" key="GridCell.Tab.0.right" timestamp="1582521296758">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="284" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582519938445" />
+    <state width="1284" height="235" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582521296758" />
     <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582518508185">
       <screen x="59" y="27" width="1307" height="741" />
     </state>

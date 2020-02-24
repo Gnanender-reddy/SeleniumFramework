@@ -57,4 +57,4 @@ class AppTesting(unittest.TestCase):
         print("This is post paid search")
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main
