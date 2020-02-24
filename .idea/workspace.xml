@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in assertions1.py">
+  <component name="RunManager" selected="Python tests.Unittests in assertionsIn.py">
     <configuration name="Unittests for assertions1.Test.test_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pythonseleniumframework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +74,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in assertionsIn.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/assertionsIn.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in assertions.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pythonseleniumframework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,27 +102,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in skippingtests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="pythonseleniumframework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/skippingtests.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in assertionsIn.py" />
         <item itemvalue="Python tests.Unittests in assertions1.py" />
         <item itemvalue="Python tests.Unittests for assertions1.Test.test_name" />
         <item itemvalue="Python tests.Unittests in assertions.py" />
         <item itemvalue="Python tests.Unittests for skippingtests.Apptesting" />
-        <item itemvalue="Python tests.Unittests in skippingtests.py" />
       </list>
     </recent_temporary>
   </component>
@@ -126,22 +126,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1284" height="258" key="GridCell.Tab.0.bottom" timestamp="1582523745746">
+    <state width="1284" height="336" key="GridCell.Tab.0.bottom" timestamp="1582535218055">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="258" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582523745746" />
-    <state width="1284" height="258" key="GridCell.Tab.0.center" timestamp="1582523745745">
+    <state width="1284" height="336" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582535218055" />
+    <state width="1284" height="336" key="GridCell.Tab.0.center" timestamp="1582535218053">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="258" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582523745745" />
-    <state width="1284" height="258" key="GridCell.Tab.0.left" timestamp="1582523745744">
+    <state width="1284" height="336" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582535218053" />
+    <state width="1284" height="336" key="GridCell.Tab.0.left" timestamp="1582535218050">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="258" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582523745744" />
-    <state width="1284" height="258" key="GridCell.Tab.0.right" timestamp="1582523745745">
+    <state width="1284" height="336" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582535218050" />
+    <state width="1284" height="336" key="GridCell.Tab.0.right" timestamp="1582535218054">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="258" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582523745745" />
+    <state width="1284" height="336" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582535218054" />
     <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582518508185">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
