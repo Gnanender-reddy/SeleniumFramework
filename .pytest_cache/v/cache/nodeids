@@ -1,4 +1,6 @@
 [
-  "test_pytestdemo2.py::testmethod1", 
-  "test_pytestdemo2.py::testmethod2"
+  "test_orangeHrm.py::TestOrangeApp::()::test_homepageTitle",
+  "test_orangeHrm.py::TestOrangeApp::()::test_login",
+  "test_orangeHrm.py::TestOrangeApp::test_homepageTitle",
+  "test_orangeHrm.py::TestOrangeApp::test_login"
 ]
