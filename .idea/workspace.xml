@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for testcases.AppTesting">
     <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonseleniumframework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,8 +54,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for testcases.AppTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcases.AppTesting&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testcases.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for testcases.AppTesting" />
+        <item itemvalue="Python tests.Unittests in testcases.py" />
         <item itemvalue="Python.basic" />
       </list>
     </recent_temporary>
@@ -74,21 +104,36 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1284" height="172" key="GridCell.Tab.0.bottom" timestamp="1582366044044">
+    <state width="1284" height="284" key="GridCell.Tab.0.bottom" timestamp="1582519938445">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582366044044" />
-    <state width="1284" height="172" key="GridCell.Tab.0.center" timestamp="1582366044043">
+    <state width="1284" height="284" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582519938445" />
+    <state width="1284" height="284" key="GridCell.Tab.0.center" timestamp="1582519938445">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582366044043" />
-    <state width="1284" height="172" key="GridCell.Tab.0.left" timestamp="1582366044042">
+    <state width="1284" height="284" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582519938445" />
+    <state width="1284" height="284" key="GridCell.Tab.0.left" timestamp="1582519938444">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582366044042" />
-    <state width="1284" height="172" key="GridCell.Tab.0.right" timestamp="1582366044043">
+    <state width="1284" height="284" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582519938444" />
+    <state width="1284" height="284" key="GridCell.Tab.0.right" timestamp="1582519938445">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="172" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582366044043" />
+    <state width="1284" height="284" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582519938445" />
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582518508185">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/59.27.1307.741@59.27.1307.741" timestamp="1582518508185" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
