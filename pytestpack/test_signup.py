@@ -1,5 +1,6 @@
-import pytest
 
+
+import pytest
 
 @pytest.fixture() #this fixture method is executed before every method
 def setup():
