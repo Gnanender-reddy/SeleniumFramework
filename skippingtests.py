@@ -1,3 +1,11 @@
+"""
+@Author : P.Gnanender Reddy
+@Since : Feb'2020
+@keywords: python selenium.
+@Description:This code is for python selenium basics which has skipping test concept.
+"""
+
+
 import unittest
 class Apptesting(unittest.TestCase):
 
