@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="" />
+    <list default="true" id="db8cae5c-417f-462f-8142-e88f592ceb21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assertions.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/assertions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assertions1.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/assertions1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assertionsIn.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/assertionsIn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skippingtests.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/skippingtests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_orangeHrm.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestpack/test_orangeHrm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytestdemo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestpack/test_pytestdemo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytestdemo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytestpack/test_pytestdemo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittestpack/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +44,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in assertionsIn.py">
-    <configuration name="Unittests for assertions1.Test.test_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unittest" />
+      <recent name="$PROJECT_DIR$/pytestpack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_orange_hrm_logintest.py">
+    <configuration name="Unittests for unittestpack.assertions1.Test.test_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pythonseleniumframework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,21 +61,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;assertions1.Test.test_name&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for skippingtests.Apptesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="pythonseleniumframework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;skippingtests.Apptesting&quot;" />
+      <option name="_new_target" value="&quot;unittestpack.assertions1.Test.test_name&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -69,7 +75,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/assertions1.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittestpack/assertions1.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -83,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/assertionsIn.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittestpack/assertionsIn.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -97,17 +103,31 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/assertions.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittestpack/assertions.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_orange_hrm_logintest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonseleniumframework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittestpack1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittestpack1/test_orange_hrm_logintest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_orange_hrm_logintest.py" />
         <item itemvalue="Python tests.Unittests in assertionsIn.py" />
         <item itemvalue="Python tests.Unittests in assertions1.py" />
-        <item itemvalue="Python tests.Unittests for assertions1.Test.test_name" />
+        <item itemvalue="Python tests.Unittests for unittestpack.assertions1.Test.test_name" />
         <item itemvalue="Python tests.Unittests in assertions.py" />
-        <item itemvalue="Python tests.Unittests for skippingtests.Apptesting" />
       </list>
     </recent_temporary>
   </component>
@@ -125,30 +145,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1284" height="336" key="GridCell.Tab.0.bottom" timestamp="1582535218055">
+    <state width="1284" height="272" key="GridCell.Tab.0.bottom" timestamp="1582608835656">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="336" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582535218055" />
-    <state width="1284" height="336" key="GridCell.Tab.0.center" timestamp="1582535218053">
+    <state width="1284" height="272" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1582608835656" />
+    <state width="1284" height="272" key="GridCell.Tab.0.center" timestamp="1582608835655">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="336" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582535218053" />
-    <state width="1284" height="336" key="GridCell.Tab.0.left" timestamp="1582535218050">
+    <state width="1284" height="272" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1582608835655" />
+    <state width="1284" height="272" key="GridCell.Tab.0.left" timestamp="1582608835654">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="336" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582535218050" />
-    <state width="1284" height="336" key="GridCell.Tab.0.right" timestamp="1582535218054">
+    <state width="1284" height="272" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1582608835654" />
+    <state width="1284" height="272" key="GridCell.Tab.0.right" timestamp="1582608835655">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state width="1284" height="336" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582535218054" />
-    <state x="201" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1582546124202">
+    <state width="1284" height="272" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1582608835655" />
+    <state x="201" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1582607636199">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state x="201" y="31" width="1022" height="737" key="SettingsEditor/59.27.1307.741@59.27.1307.741" timestamp="1582546124202" />
-    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582518508185">
+    <state x="201" y="31" width="1022" height="737" key="SettingsEditor/59.27.1307.741@59.27.1307.741" timestamp="1582607636199" />
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582604256470">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/59.27.1307.741@59.27.1307.741" timestamp="1582518508185" />
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/59.27.1307.741@59.27.1307.741" timestamp="1582604256470" />
     <state x="375" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582522501284">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
@@ -158,7 +178,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases.py</url>
+          <url>file://$PROJECT_DIR$/unittestpack/testcases.py</url>
           <line>59</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

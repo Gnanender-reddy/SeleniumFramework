@@ -5,10 +5,10 @@
 @Description:This code is for python selenium basics which has
 assertions concept.
 """
-import unittest
-class Test(unittest.TestCase):
+import unittestpack
+class Test(unittestpack.TestCase):
     def test_name(self):
         list=['python','cat','snake']
         self.assertNotIn('python',list)
 if __name__ == '__main__':
-    unittest.main()
+    unittestpack.main()

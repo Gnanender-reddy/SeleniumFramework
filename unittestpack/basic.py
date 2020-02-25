@@ -4,10 +4,10 @@
 @keywords: python selenium.
 @Description:This code is for python selenium basics which has unit test frame work concept.
 """
-import unittest
+import unittestpack
 from selenium import webdriver
 
-class searchengine(unittest.TestCase):
+class searchengine(unittestpack.TestCase):
 
 
     def test_bing(self):
@@ -17,4 +17,4 @@ class searchengine(unittest.TestCase):
         self.driver.close()
 
 if __name__ == '__main__':
-    unittest.main()
+    unittestpack.main()

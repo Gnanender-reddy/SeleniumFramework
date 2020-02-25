@@ -6,9 +6,9 @@
 assertions concept.
 """
 
-import unittest
+import unittestpack
 from selenium import webdriver
-class Test(unittest.TestCase):
+class Test(unittestpack.TestCase):
     def test_name(self):
         driver=webdriver.Chrome()
         driver.get("https://google.com")
@@ -16,4 +16,4 @@ class Test(unittest.TestCase):
         #self.assertTrue(tittle,"Google")
         self.assertFalse(tittle=="Google12")
 if __name__ == '__main__':
-    unittest.main()
+    unittestpack.main()

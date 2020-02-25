@@ -1,3 +1,10 @@
+"""
+@Author : P.Gnanender Reddy
+@Since : Feb'2020
+@keywords: python selenium.
+@Description:This code is for python selenium basics which has
+pytest concept.
+"""
 
 from selenium import webdriver
 import pytest

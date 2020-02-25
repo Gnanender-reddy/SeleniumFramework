@@ -5,7 +5,7 @@
 @Description:This code is for python selenium basics which has unit test frame work concept with setup and tear down methods.
 """
 
-import unittest
+import unittestpack
 
 def setUpModule():#This setup module is executed once before module(class) execution.
     print("This is setup module")
@@ -13,7 +13,7 @@ def setUpModule():#This setup module is executed once before module(class) execu
 def tearDownModule():#This teardown module is executed once after module(class) execution.
     print("this is tear down module")
 
-class AppTesting(unittest.TestCase):
+class AppTesting(unittestpack.TestCase):
     @classmethod
     def setUp(self):
         """
@@ -57,4 +57,4 @@ class AppTesting(unittest.TestCase):
         print("This is post paid search")
 
 if __name__ == '__main__':
-    unittest.main
+    unittestpack.main
